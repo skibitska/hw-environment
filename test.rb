@@ -1,0 +1,1 @@
+puts "Hello, Lida Skibitska!"
